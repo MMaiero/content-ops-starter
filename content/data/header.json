@@ -40,6 +40,14 @@
                     "type": "Link"
                 },
                 {
+                    "label": "Lavorazioni CNC",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
+                },
+                {
                     "type": "Link",
                     "label": "Complementi Arredo",
                     "altText": "",
@@ -49,14 +57,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
-                },
-                {
-                    "label": "Lavorazioni CNC",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
