@@ -48,15 +48,12 @@
                     "type": "Link"
                 },
                 {
-                    "type": "Link",
-                    "label": "Complementi Arredo",
-                    "altText": "",
+                    "label": "Complementi d'Arredo",
                     "url": "/",
-                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "elementId": ""
+                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
