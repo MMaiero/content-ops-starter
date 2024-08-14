@@ -24,7 +24,7 @@
             "altText": "Prodotti",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Arredi",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
