@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'La tradizione e l''innovazione, dal 1953'
       color: text-primary
       type: Badge
     elementId: ''
