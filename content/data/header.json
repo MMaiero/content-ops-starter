@@ -40,7 +40,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Lavorazioni CNC",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
