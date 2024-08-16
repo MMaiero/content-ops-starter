@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "info\\@maiero.eu\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -61,18 +61,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
@@ -80,9 +68,16 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:info@maiero.eu",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/maieroivanosnc",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [
@@ -96,7 +91,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "https://www.iubenda.com/privacy-policy/706239",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

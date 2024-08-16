@@ -25,7 +25,7 @@
             "links": [
                 {
                     "label": "Arredi",
-                    "url": "/",
+                    "url": "/arredi",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -33,7 +33,7 @@
                 },
                 {
                     "label": "Lavorazioni laser",
-                    "url": "/",
+                    "url": "/laser",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -41,7 +41,7 @@
                 },
                 {
                     "label": "Lavorazioni CNC",
-                    "url": "/",
+                    "url": "/cnc",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -49,7 +49,7 @@
                 },
                 {
                     "label": "Complementi d'Arredo",
-                    "url": "/",
+                    "url": "/complementi",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -60,18 +60,9 @@
             "type": "SubNav"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Collaborazioni",
+            "altText": "Collaborazioni",
+            "url": "/collabs",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
