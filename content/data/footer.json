@@ -68,7 +68,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:info@maiero.eu",
             "icon": "mail",
             "type": "Social"
         }
