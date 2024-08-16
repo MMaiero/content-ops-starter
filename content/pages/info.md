@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: Professionalità e alta qualità
-    text: "La Maiero Ivano sas rappresenta un’impresa artigiana costituita nei primi anni '50 da Maiero Leonida (ex capo mobilieri presso il mobilificio Torossi di Udine) e da Maiero Ivano.\n\nOperante da subito nel settore dell'arredamento di Design, con lavori eseguiti sotto la direzione dell'Arch. A.Masieri (Villa Romanelli), prosegue con l'Arch. C.Scarpa (Villa Veritti), continuando nel corso degli anni le collaborazioni con marchi internazionali d'arredo, design forniture, architetti ed arredatori d'interni e con Sandro dal 1979.\_\n\nGrazie a queste attrezzature ampliamento della gamma di prodotti:\_Prototipi di sedie di design per fiere del settore, plastici (museo Erto plastici Vajont) ecc.\n\nPartecipazione ad Innovaction 2006 con prototipo pavimento legno.\n\nDal 2013 siamo concessionari per l'Italia di WoodWorks.\n"
+    text: "La Maiero Ivano sas rappresenta un’impresa artigiana costituita nei primi anni '50 da Maiero Leonida (ex capo mobilieri presso il mobilificio Torossi di Udine) e da Maiero Ivano.\n\nOperante da subito nel settore dell'arredamento di Design, con lavori eseguiti sotto la direzione dell'Arch. A.Masieri (Villa Romanelli), prosegue con l'Arch. C.Scarpa (Villa Veritti), continuando nel corso degli anni le collaborazioni con marchi internazionali d'arredo, design forniture, architetti ed arredatori d'interni e con Sandro dal 1979.\_\n"
     actions: []
     media:
       type: VideoBlock
