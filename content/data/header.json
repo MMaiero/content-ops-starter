@@ -49,7 +49,7 @@
                 },
                 {
                     "label": "Complementi d'Arredo",
-                    "url": "/",
+                    "url": "/complementi",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
