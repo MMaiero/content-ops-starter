@@ -50,7 +50,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: ''
       color: text-dark
     subtitle: ''
     text: "Utilizzo di attrezzatura ad alta tecnologia:\_\n\n*   Centro di lavoro per legno dal 1988;\n\n<!---->\n\n*   Lavorazioni laser dal 1995.\n\n"
