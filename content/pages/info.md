@@ -71,7 +71,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: ''
       color: text-dark
     subtitle: ''
     text: "Grazie a queste attrezzature ampliamento della gamma di prodotti:\_Prototipi di sedie di design per fiere del settore, plastici (museo Erto plastici Vajont) ecc.\n\nPartecipazione ad Innovaction 2006 con prototipo pavimento legno.\n\nDal 2013 siamo concessionari per l'Italia di WoodWorks.\n"
