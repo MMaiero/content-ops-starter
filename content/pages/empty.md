@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: IL NOSTRO PERCORSO NEL DESIGN
       color: text-dark
       styles:
         self:
