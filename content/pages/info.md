@@ -54,14 +54,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: "Utilizzo di attrezzatura ad alta tecnologia:\_\n\n*   Centro di lavoro per legno dal 1988;\n\n<!---->\n\n*   Lavorazioni laser dal 1995.\n\n"
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/11e069_5aeadfbf7e9b49f58f584ae52f709a5e~mv2.jpg.webp
