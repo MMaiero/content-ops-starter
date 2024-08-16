@@ -53,7 +53,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: "Utilizzo di attrezzatura ad alta tecnologia:\_\n\n*   Centro di lavoro per legno dal 1988;\n\n<!---->\n\n*   Lavorazioni laser dal 1995.\n\n"
+    text: "Utilizzo di attrezzatura ad alta tecnologia:\_\n\n*   Centro di lavoro per legno dal 1988;\n\n<!---->\n\n*   Lavorazioni laser dal 1995.\n\nGrazie a queste attrezzature ampliamento della gamma di prodotti:\_Prototipi di sedie di design per fiere del settore, plastici (museo Erto plastici Vajont) ecc.\n\n"
     actions: []
     media:
       type: ImageBlock
