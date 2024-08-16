@@ -7,10 +7,7 @@ sections:
       text: LA STORIA
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      La Maiero Ivano sas rappresenta un’impresa artigiana costituita nei primi
-      anni '50 da Maiero Leonida (ex capo mobilieri presso il mobilificio
-      Torossi di Udine) e da Maiero Ivano.
+    subtitle: ''
     text: >
       Operante da subito nel settore dell'arredamento di Design, con lavori
       eseguiti sotto la direzione dell'Arch. A.Masieri (Villa Romanelli),
