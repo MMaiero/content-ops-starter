@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: IL NOSTRO PERCORSO NEL DESIGN
       color: text-primary
       styles:
         self:
