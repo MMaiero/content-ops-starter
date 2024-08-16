@@ -71,6 +71,13 @@
             "url": "mailto:info@maiero.eu",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/maieroivanosnc",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [
