@@ -102,6 +102,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /lavorazioni_laser
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Lavorazioni CNC
         tagline: This is the tagline
         subtitle: This is the item subtitle
