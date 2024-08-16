@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'LA TRADIZIONE E L''INNOVAZIONE, DAL 1953'
+      text: LA STORIA
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
