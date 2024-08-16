@@ -115,9 +115,7 @@ sections:
       - title: Lavorazioni CNC
         tagline: ''
         subtitle: Fresatura a 3 e 5 assi
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: ''
         image:
           url: /images/chiesa.jpg.webp
           altText: Placeholder image
