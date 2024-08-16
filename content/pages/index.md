@@ -177,7 +177,7 @@ sections:
     items:
       - title: Arredi
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Realizzazione arredamenti su commissione
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
