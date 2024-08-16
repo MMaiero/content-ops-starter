@@ -159,7 +159,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Visita
             altText: ''
             url: /complementi
             showIcon: false
