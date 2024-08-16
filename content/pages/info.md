@@ -98,52 +98,6 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    subtitle: Professionalità e alta qualità
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://youtu.be/4d9hg7DIxXc?si=JyR6TGSsLjVj_2QD'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    title:
-      type: TitleBlock
-      text: Il nostro percorso nel Design
-      color: text-dark
-  - type: GenericSection
     title:
       type: TitleBlock
       text: Il nostro percorso nel Design
