@@ -98,13 +98,6 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Il nostro percorso nel Design
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: Professionalità e alta qualità
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
