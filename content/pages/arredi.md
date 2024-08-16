@@ -36,7 +36,7 @@ sections:
           diverse profondità....praticamente una scultura "funzionale".
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/1244480_651139701576393_1418421173_o.jpg.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
