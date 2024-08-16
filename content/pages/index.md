@@ -7,7 +7,7 @@ sections:
       text: Maiero Ivano sas
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: Prototipazione e arredi su misura
     text: ''
     actions:
       - label: Più informazioni
