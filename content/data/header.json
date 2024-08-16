@@ -33,7 +33,7 @@
                 },
                 {
                     "label": "Lavorazioni laser",
-                    "url": "/",
+                    "url": "/laser",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -41,7 +41,7 @@
                 },
                 {
                     "label": "Lavorazioni CNC",
-                    "url": "/",
+                    "url": "/cnc",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
