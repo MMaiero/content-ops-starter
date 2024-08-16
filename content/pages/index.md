@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: LA STORIA
+      text: Maiero Ivano sas
       color: text-dark
       type: TitleBlock
     subtitle: ''
