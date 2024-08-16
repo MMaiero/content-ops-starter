@@ -14,18 +14,26 @@ sections:
       - type: FeaturedItem
         title: Libreria "Enigma"
         subtitle: $ 88 – $ 176
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
+        text: >
+          Libreria "Enigma"
+
+          Struttura in listellare pioppo, massellata ed impiallacciata legno
+          acero europeo, finitura naturale ad acqua.
 
 
+          Particolarità:
 
 
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
+          *   praticamente un pezzo diverso dall'altro;
 
 
+          *   schiena strutturale incastrata a "puzzle" anche per evitare
+          giunture a vista.
 
+
+          Una libreria inconsueta in cui i ripiani si rincorrono sui tre lati
+          degradando verso il pavimento in un movimento plastico dato dalle
+          diverse profondità....praticamente una scultura "funzionale".
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
