@@ -141,7 +141,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Il nostro percorso nel Design
       color: text-dark
 slug: info
 isDraft: false
