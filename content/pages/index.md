@@ -7,7 +7,10 @@ sections:
       text: LA STORIA
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      La Maiero Ivano sas rappresenta un’impresa artigiana costituita nei primi
+      anni '50 da Maiero Leonida (ex capo mobilieri presso il mobilificio
+      Torossi di Udine) e da Maiero Ivano.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
