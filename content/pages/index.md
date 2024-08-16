@@ -73,7 +73,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Visita
             altText: ''
             url: /arredi
             showIcon: false
