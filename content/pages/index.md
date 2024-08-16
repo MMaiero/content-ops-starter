@@ -200,7 +200,7 @@ sections:
         type: FeaturedItem
       - title: Lavorazioni Laser
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Taglio e marcatura laser
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
