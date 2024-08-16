@@ -8,12 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      Operante da subito nel settore dell'arredamento di Design, con lavori
-      eseguiti sotto la direzione dell'Arch. A.Masieri (Villa Romanelli),
-      prosegue con l'Arch. C.Scarpa (Villa Veritti), continuando nel corso degli
-      anni le collaborazioni con marchi internazionali d'arredo, design
-      forniture, architetti ed arredatori d'interni e con Sandro dal 1979.​
+    text: ''
     actions:
       - label: Più informazioni
         altText: ''
