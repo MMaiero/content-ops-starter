@@ -181,7 +181,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/1244480_651139701576393_1418421173_o.jpg.webp
           altText: Placeholder Image
           styles:
             self:
