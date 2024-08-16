@@ -280,6 +280,9 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+    subtitle: >-
+      Una rapida carrellata fotografica di alcuni progetti d'arredo realizzati
+      negli anni su proprio progetto o tramite la direzione di architetti.
 slug: arredi
 isDraft: false
 seo:
