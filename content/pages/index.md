@@ -49,7 +49,7 @@ sections:
     subtitle: Ampia selezione di prodotti e servizi per l'arredamento e il su misura
     items:
       - title: Arredi
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Realizzazione arredamenti su commissione
         text: ''
         image:
