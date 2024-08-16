@@ -126,7 +126,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Soluzioni d'arredo per l'esterno
       color: text-dark
       styles:
         self:
