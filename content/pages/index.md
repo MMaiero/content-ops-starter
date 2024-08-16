@@ -288,21 +288,17 @@ sections:
     type: FeaturedItemsSection
   - subtitle: ''
     text: |
-      ## Indirizzo
+      ### Indirizzo
 
       Via Giuseppe Verdi, 26
 
       33010 fr. Colugna di Tavagnacco (UD)
-
-
 
       ### Riferimenti
 
       Tel: +39 0432 401175
 
       email: <info@maiero.eu>
-
-
 
       ### Orari d'apertura
 
