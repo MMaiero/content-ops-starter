@@ -148,8 +148,7 @@ sections:
         title: Complementi d'Arredo
         tagline: This is the tagline
         subtitle: Prototipi e componenti in legno
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/tappetosequals.jpeg.webp
