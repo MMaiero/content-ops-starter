@@ -136,7 +136,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Visita
             altText: ''
             url: /cnc
             showIcon: false
