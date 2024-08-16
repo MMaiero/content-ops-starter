@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Libreria "Enigma"Libreria "Enigma"
+        title: Libreria "Enigma"
         subtitle: ''
         text: >
           Libreria "Enigma"
