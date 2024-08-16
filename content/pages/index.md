@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Più informazioni
         altText: ''
-        url: /
+        url: /info
         showIcon: false
         icon: arrowRight
         iconPosition: right
