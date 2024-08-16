@@ -83,8 +83,7 @@ sections:
       - title: Lavorazioni Laser
         tagline: ''
         subtitle: Taglio e marcatura laser
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/intarsio.jpg.webp
           altText: Placeholder image
