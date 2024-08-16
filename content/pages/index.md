@@ -106,7 +106,7 @@ sections:
           - type: Button
             label: Visita
             altText: ''
-            url: /lavorazioni_laser
+            url: /laser
             showIcon: false
             icon: arrowRight
             iconPosition: right
