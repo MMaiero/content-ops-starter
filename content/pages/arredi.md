@@ -101,6 +101,9 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: >-
+      Realizzazione arredamenti su commissione con disegni propri o da
+      professionisti. Realizzazione prototipi e componenti in legno conto terzi
 slug: arredi
 isDraft: false
 seo:
