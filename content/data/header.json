@@ -62,7 +62,7 @@
         {
             "label": "Collaborazioni",
             "altText": "Collaborazioni",
-            "url": "/careers",
+            "url": "/collabs",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
