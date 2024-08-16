@@ -196,6 +196,9 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+    subtitle: >-
+      Realizzazione di soluzioni d'arredo per l'esterno su progetto proprio o su
+      commissione.
   - type: DividerSection
     title: Divider
     elementId: ''
