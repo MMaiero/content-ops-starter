@@ -18,7 +18,7 @@ sections:
       anni le collaborazioni con marchi internazionali d'arredo, design
       forniture, architetti ed arredatori d'interni e con Sandro dal 1979.​
     actions:
-      - label: Get started
+      - label: Più informazioni
         altText: ''
         url: /
         showIcon: false
