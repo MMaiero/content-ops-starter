@@ -286,11 +286,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
+  - subtitle: ''
     text: |
       ## Indirizzo
 
