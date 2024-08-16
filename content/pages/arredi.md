@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Libreria "Enigma"Libreria "Enigma"
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         text: >
           Libreria "Enigma"
 
