@@ -51,8 +51,7 @@ sections:
       - title: Arredi
         tagline: This is the tagline
         subtitle: Realizzazione arredamenti su commissione
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           url: /images/1244480_651139701576393_1418421173_o.jpg.webp
           altText: Placeholder Image
