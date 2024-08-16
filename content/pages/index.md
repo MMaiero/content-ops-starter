@@ -81,7 +81,7 @@ sections:
             style: primary
             elementId: ''
       - title: Lavorazioni Laser
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Taglio e marcatura laser
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
