@@ -78,14 +78,7 @@ sections:
       Partecipazione ad Innovaction 2006 con prototipo pavimento legno.
 
       Dal 2013 siamo concessionari per l'Italia di WoodWorks.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/11e069_cea9830c489d4da7b098ca6fca1b4430~mv2.jpg.webp
