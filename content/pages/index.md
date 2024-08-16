@@ -114,7 +114,7 @@ sections:
             elementId: ''
       - title: Lavorazioni CNC
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Fresatura a 3 e 5 assi
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
