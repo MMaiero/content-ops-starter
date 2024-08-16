@@ -175,7 +175,7 @@ sections:
       type: TitleBlock
     subtitle: Ampia selezione di prodotti e servizi per l'arredamento e il su misura
     items:
-      - title: Feature Item One
+      - title: Arredi
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
