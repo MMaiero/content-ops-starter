@@ -12,9 +12,11 @@ sections:
       anni '50 da Maiero Leonida (ex capo mobilieri presso il mobilificio
       Torossi di Udine) e da Maiero Ivano.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Operante da subito nel settore dell'arredamento di Design, con lavori
+      eseguiti sotto la direzione dell'Arch. A.Masieri (Villa Romanelli),
+      prosegue con l'Arch. C.Scarpa (Villa Veritti), continuando nel corso degli
+      anni le collaborazioni con marchi internazionali d'arredo, design
+      forniture, architetti ed arredatori d'interni e con Sandro dal 1979.​
     actions:
       - label: Get started
         altText: ''
