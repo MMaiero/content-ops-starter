@@ -173,7 +173,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Ampia selezione di prodotti e servizi per l'arredamento e il su misura
     items:
       - title: Feature Item One
         tagline: This is the tagline
