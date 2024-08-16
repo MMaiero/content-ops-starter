@@ -71,6 +71,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /arredi
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Lavorazioni Laser
         tagline: This is the tagline
         subtitle: Taglio e marcatura laser
