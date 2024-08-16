@@ -104,7 +104,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Visita
             altText: ''
             url: /lavorazioni_laser
             showIcon: false
