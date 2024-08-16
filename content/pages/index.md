@@ -146,7 +146,7 @@ sections:
             elementId: ''
       - type: FeaturedItem
         title: Complementi d'Arredo
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Prototipi e componenti in legno
         text: ''
         image:
