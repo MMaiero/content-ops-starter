@@ -146,7 +146,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: empty
+slug: info
 isDraft: false
 seo:
   type: Seo
